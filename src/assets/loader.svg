@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="172" height="214" viewBox="0 0 172 214">
+<defs>
+<clipPath id="b">
+<rect width="172" height="214"/>
+</clipPath>
+</defs>
+<g id="a" clip-path="url(#b)" class="middle">
+<rect width="56" height="209" rx="10" fill="#09bc8a"/>
+<rect width="56" height="128" rx="10" transform="translate(57 81)" fill="#09bc8a">
+</rect>
+<rect width="56" height="182" rx="10" transform="translate(114 27)" fill="#09bc8a"/>
+</g>
+</svg>
