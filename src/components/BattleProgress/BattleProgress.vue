@@ -31,7 +31,7 @@
 import ChooseQuestions from "@/components/ChooseQuestions/ChooseQuestions";
 import Results from "@/components/Results/Results";
 import axios from "axios";
-const URL = "http://us-central1-hidden-analyzer-237719.cloudfunctions.net";
+const URL = "https://us-central1-hidden-analyzer-237719.cloudfunctions.net";
 let i = 0;
 export default {
   name: "BattleProgress",

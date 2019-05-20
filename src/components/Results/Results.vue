@@ -28,7 +28,7 @@
 </template>
 <script>
 import axios from "axios";
-const URL = "http://us-central1-hidden-analyzer-237719.cloudfunctions.net";
+const URL = "https://us-central1-hidden-analyzer-237719.cloudfunctions.net";
 import NavBar from "@/components/NavBar/NavBar";
 let i = 0;
 let j = 0;

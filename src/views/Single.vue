@@ -36,7 +36,7 @@ import Loader from "@/components/Loader/Loader";
 import axios from "axios";
 import firebase from "firebase";
 import { setTimeout, clearInterval } from "timers";
-const URL = "http://us-central1-hidden-analyzer-237719.cloudfunctions.net";
+const URL = "https://us-central1-hidden-analyzer-237719.cloudfunctions.net";
 export default {
   name: "Single",
   components: {

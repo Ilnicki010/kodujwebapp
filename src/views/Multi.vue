@@ -29,7 +29,7 @@
   </div>
 </template>
 <script>
-const URL = "http://us-central1-hidden-analyzer-237719.cloudfunctions.net";
+const URL = "https://us-central1-hidden-analyzer-237719.cloudfunctions.net";
 import firebase from "firebase";
 import axios from "axios";
 import NavBar from "@/components/NavBar/NavBar";

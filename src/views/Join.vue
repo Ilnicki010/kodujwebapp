@@ -31,7 +31,7 @@
 import Loader from "@/components/Loader/Loader";
 import firebase from "firebase";
 import axios from "axios";
-const URL = "http://us-central1-hidden-analyzer-237719.cloudfunctions.net";
+const URL = "https://us-central1-hidden-analyzer-237719.cloudfunctions.net";
 import character from "../assets/character.svg";
 import errorCharacter from "../assets/loading_character.svg";
 export default {

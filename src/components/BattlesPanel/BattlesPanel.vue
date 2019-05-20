@@ -14,7 +14,7 @@
 </template>
 <script>
 import axios from "axios";
-const URL = "http://us-central1-hidden-analyzer-237719.cloudfunctions.net";
+const URL = "https://us-central1-hidden-analyzer-237719.cloudfunctions.net";
 export default {
   name: "BattlesPanel",
   props: ["userUID"],
